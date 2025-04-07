@@ -1,6 +1,7 @@
 # dependencies (bun install)
 node_modules
 data.json
+static/styles.css
 
 # output
 out
